@@ -1,0 +1,15 @@
+.login-form .form-control {
+    background: transparent;
+    height: 55px;
+    padding-left: 20px;
+    border-radius: 0.8rem;
+    border-color: #bdbdbd;
+  }
+
+  .btn{
+    border-radius: 0.8rem;
+}
+
+.login-form h2 {
+    font-family: 'sans-serif';
+}
